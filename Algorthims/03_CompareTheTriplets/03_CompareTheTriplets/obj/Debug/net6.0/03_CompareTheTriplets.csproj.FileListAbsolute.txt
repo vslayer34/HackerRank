@@ -1,0 +1,5 @@
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.csproj.CoreCompileInputs.cache
