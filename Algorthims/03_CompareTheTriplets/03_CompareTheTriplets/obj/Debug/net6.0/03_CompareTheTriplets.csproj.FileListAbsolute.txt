@@ -3,3 +3,13 @@ D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets
 D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.AssemblyInfoInputs.cache
 D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.AssemblyInfo.cs
 D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\bin\Debug\net6.0\03_CompareTheTriplets.exe
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\bin\Debug\net6.0\03_CompareTheTriplets.deps.json
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\bin\Debug\net6.0\03_CompareTheTriplets.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\bin\Debug\net6.0\03_CompareTheTriplets.dll
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\bin\Debug\net6.0\03_CompareTheTriplets.pdb
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.dll
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\refint\03_CompareTheTriplets.dll
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.pdb
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\03_CompareTheTriplets.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\03_CompareTheTriplets\03_CompareTheTriplets\obj\Debug\net6.0\ref\03_CompareTheTriplets.dll
