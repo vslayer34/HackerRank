@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\bin\Debug\net6.0\04_A Very Big Sum.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\bin\Debug\net6.0\04_A Very Big Sum.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\bin\Debug\net6.0\04_A Very Big Sum.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\bin\Debug\net6.0\04_A Very Big Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\bin\Debug\net6.0\04_A Very Big Sum.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\refint\04_A Very Big Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\04_A Very Big Sum.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\04_A Very Big Sum\04_A Very Big Sum\obj\Debug\net6.0\ref\04_A Very Big Sum.dll
