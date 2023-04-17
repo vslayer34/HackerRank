@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\bin\Debug\net6.0\06_Plus Minus.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\bin\Debug\net6.0\06_Plus Minus.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\bin\Debug\net6.0\06_Plus Minus.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\bin\Debug\net6.0\06_Plus Minus.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\bin\Debug\net6.0\06_Plus Minus.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\refint\06_Plus Minus.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\06_Plus Minus.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\06_Plus Minus\06_Plus Minus\obj\Debug\net6.0\ref\06_Plus Minus.dll
