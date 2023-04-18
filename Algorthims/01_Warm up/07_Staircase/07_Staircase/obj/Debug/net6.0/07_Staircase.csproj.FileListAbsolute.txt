@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\bin\Debug\net6.0\07_Staircase.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\bin\Debug\net6.0\07_Staircase.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\bin\Debug\net6.0\07_Staircase.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\bin\Debug\net6.0\07_Staircase.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\bin\Debug\net6.0\07_Staircase.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\refint\07_Staircase.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\07_Staircase.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\07_Staircase\07_Staircase\obj\Debug\net6.0\ref\07_Staircase.dll
