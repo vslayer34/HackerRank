@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\bin\Debug\net6.0\08_Mini-Max Sum.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\bin\Debug\net6.0\08_Mini-Max Sum.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\bin\Debug\net6.0\08_Mini-Max Sum.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\bin\Debug\net6.0\08_Mini-Max Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\bin\Debug\net6.0\08_Mini-Max Sum.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\refint\08_Mini-Max Sum.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\08_Mini-Max Sum.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\08_Mini-Max Sum\08_Mini-Max Sum\obj\Debug\net6.0\ref\08_Mini-Max Sum.dll
