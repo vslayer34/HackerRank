@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\bin\Debug\net6.0\09_Birthday Cake Candles.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\bin\Debug\net6.0\09_Birthday Cake Candles.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\bin\Debug\net6.0\09_Birthday Cake Candles.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\bin\Debug\net6.0\09_Birthday Cake Candles.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\bin\Debug\net6.0\09_Birthday Cake Candles.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\refint\09_Birthday Cake Candles.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\09_Birthday Cake Candles.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\09_Birthday Cake Candles\09_Birthday Cake Candles\obj\Debug\net6.0\ref\09_Birthday Cake Candles.dll
