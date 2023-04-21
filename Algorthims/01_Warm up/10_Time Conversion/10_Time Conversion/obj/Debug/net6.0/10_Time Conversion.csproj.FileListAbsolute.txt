@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\bin\Debug\net6.0\10_Time Conversion.exe
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\bin\Debug\net6.0\10_Time Conversion.deps.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\bin\Debug\net6.0\10_Time Conversion.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\bin\Debug\net6.0\10_Time Conversion.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\bin\Debug\net6.0\10_Time Conversion.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\refint\10_Time Conversion.dll
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.pdb
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\10_Time Conversion.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorthims\01_Warm up\10_Time Conversion\10_Time Conversion\obj\Debug\net6.0\ref\10_Time Conversion.dll
