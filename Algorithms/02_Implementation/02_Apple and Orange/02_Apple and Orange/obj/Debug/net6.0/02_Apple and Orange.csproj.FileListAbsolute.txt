@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\bin\Debug\net6.0\02_Apple and Orange.exe
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\bin\Debug\net6.0\02_Apple and Orange.deps.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\bin\Debug\net6.0\02_Apple and Orange.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\bin\Debug\net6.0\02_Apple and Orange.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\bin\Debug\net6.0\02_Apple and Orange.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\refint\02_Apple and Orange.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\02_Apple and Orange.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\02_Apple and Orange\02_Apple and Orange\obj\Debug\net6.0\ref\02_Apple and Orange.dll
