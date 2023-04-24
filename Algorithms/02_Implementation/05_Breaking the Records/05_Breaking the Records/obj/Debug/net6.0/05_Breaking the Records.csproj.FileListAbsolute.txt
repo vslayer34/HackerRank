@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\bin\Debug\net6.0\05_Breaking the Records.exe
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\bin\Debug\net6.0\05_Breaking the Records.deps.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\bin\Debug\net6.0\05_Breaking the Records.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\bin\Debug\net6.0\05_Breaking the Records.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\bin\Debug\net6.0\05_Breaking the Records.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\refint\05_Breaking the Records.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\05_Breaking the Records.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\05_Breaking the Records\05_Breaking the Records\obj\Debug\net6.0\ref\05_Breaking the Records.dll
