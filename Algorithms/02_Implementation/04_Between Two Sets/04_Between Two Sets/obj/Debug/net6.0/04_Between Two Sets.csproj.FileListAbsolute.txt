@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\bin\Debug\net6.0\04_Between Two Sets.exe
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\bin\Debug\net6.0\04_Between Two Sets.deps.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\bin\Debug\net6.0\04_Between Two Sets.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\bin\Debug\net6.0\04_Between Two Sets.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\bin\Debug\net6.0\04_Between Two Sets.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\refint\04_Between Two Sets.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\04_Between Two Sets.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\04_Between Two Sets\04_Between Two Sets\obj\Debug\net6.0\ref\04_Between Two Sets.dll

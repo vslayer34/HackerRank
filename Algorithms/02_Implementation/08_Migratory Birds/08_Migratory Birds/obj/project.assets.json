@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\04_Between Two Sets\\04_Between Two Sets\\04_Between Two Sets.csproj",
-      "projectName": "04_Between Two Sets",
-      "projectPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\04_Between Two Sets\\04_Between Two Sets\\04_Between Two Sets.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\08_Migratory Birds\\08_Migratory Birds\\08_Migratory Birds.csproj",
+      "projectName": "08_Migratory Birds",
+      "projectPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\08_Migratory Birds\\08_Migratory Birds\\08_Migratory Birds.csproj",
       "packagesPath": "C:\\Users\\Mohamed El-Nagar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\04_Between Two Sets\\04_Between Two Sets\\obj\\",
+      "outputPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\08_Migratory Birds\\08_Migratory Birds\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohamed El-Nagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
