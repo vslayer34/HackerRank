@@ -6,38 +6,26 @@ internal class Result
     {
         // sort array
         arr.Sort();
-        // number of most encountered item
-        int mostEncounter;
 
-        // count of each unique element
-        int maxCount = 0;
-        
-        // the most encountered type
-        int mostEncounteredType = 0;
+        // Dicitionary to store the elements and the number of its encounter
+        Dictionary<int, int> map = new Dictionary<int, int>();
 
-        //mostEncounteredType = arr.Where(x => x.Equals(arr.Max()));
-
-        foreach (int element in arr)
-        {
-            int lastElementChecked = 0;
-
-            // continue with the loop until it finds a new element
-            if (element == lastElementChecked)
+        // fill the dictionery with the elements and its count
+        int lastElementChecked = 0;
+        foreach (int i in arr)
+        {            
+            if (i == lastElementChecked)
             {
+                map[i]++;
                 continue;
             }
 
-            mostEncounter = arr.Where(x => x == element).Count();
-
-            if (maxCount < mostEncounter)
-            {
-                maxCount = mostEncounter;
-                mostEncounteredType = element;
-                lastElementChecked = element;
-            }
+            lastElementChecked = i;
+            map.Add(i, 1);
         }
 
-        return mostEncounteredType;
+        // return THe first element ket that has the most values
+        return map.Keys.First(x => map[x] == map.Values.Max());
     }
 
 
