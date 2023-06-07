@@ -1,0 +1,15 @@
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\bin\Debug\net6.0\11_Sales by Match.exe
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\bin\Debug\net6.0\11_Sales by Match.deps.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\bin\Debug\net6.0\11_Sales by Match.runtimeconfig.json
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\bin\Debug\net6.0\11_Sales by Match.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\bin\Debug\net6.0\11_Sales by Match.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.csproj.AssemblyReference.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.AssemblyInfoInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.AssemblyInfo.cs
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\refint\11_Sales by Match.dll
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.pdb
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\11_Sales by Match.genruntimeconfig.cache
+D:\Projects\C#\HackerRank\Algorithms\02_Implementation\11_Sales by Match\11_Sales by Match\obj\Debug\net6.0\ref\11_Sales by Match.dll
