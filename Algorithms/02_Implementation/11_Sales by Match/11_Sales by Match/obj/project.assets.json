@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mohamed El-Nagar\\.nuget\\packages\\": {}
+    "/home/hmaserv/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\11_Sales by Match\\11_Sales by Match\\11_Sales by Match.csproj",
+      "projectUniqueName": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/HackerRank/Algorithms/02_Implementation/11_Sales by Match/11_Sales by Match/11_Sales by Match.csproj",
       "projectName": "11_Sales by Match",
-      "projectPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\11_Sales by Match\\11_Sales by Match\\11_Sales by Match.csproj",
-      "packagesPath": "C:\\Users\\Mohamed El-Nagar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\11_Sales by Match\\11_Sales by Match\\obj\\",
+      "projectPath": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/HackerRank/Algorithms/02_Implementation/11_Sales by Match/11_Sales by Match/11_Sales by Match.csproj",
+      "packagesPath": "/home/hmaserv/.nuget/packages/",
+      "outputPath": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/HackerRank/Algorithms/02_Implementation/11_Sales by Match/11_Sales by Match/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mohamed El-Nagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/hmaserv/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,12 +54,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

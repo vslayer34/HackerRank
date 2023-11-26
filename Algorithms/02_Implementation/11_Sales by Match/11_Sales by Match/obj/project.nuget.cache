@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pbyHnt91oPfzb5DW5cUc3P9o89g0EcZtZ0/JvLFd4TguKz6JADGnyCr8+L51nejeWYdzFvttWmbo4pRBvq38LQ==",
+  "dgSpecHash": "V2m89d1gxg1qYzTS7D8YV5eymGS1JLIDBj4lujPm7KsGNhBlnThW54+fYINhs6h8TiqSi8U3Got7+Vo6N8Uehg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\C#\\HackerRank\\Algorithms\\02_Implementation\\11_Sales by Match\\11_Sales by Match\\11_Sales by Match.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/HackerRank/Algorithms/02_Implementation/11_Sales by Match/11_Sales by Match/11_Sales by Match.csproj",
+  "expectedPackageFiles": [
+    "/home/hmaserv/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
